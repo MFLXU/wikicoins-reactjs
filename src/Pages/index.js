@@ -1,0 +1,5 @@
+export { default as LandingPage } from './LandingPage'
+export { default as CoinsPage } from './CoinsPage'
+export { default as Error } from './Error'
+export { default as CoinPage } from './CoinPage'
+export { default as About } from './About'
