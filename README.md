@@ -1,5 +1,5 @@
 # wikicoins-reactjs 🪙
-[LIVE PREVIEW](https://www.example.com)
+[LIVE PREVIEW](https://wikicoins.netlify.app/)
 **Technologies Used :**
 ReactJS
 Tailwind CSS
